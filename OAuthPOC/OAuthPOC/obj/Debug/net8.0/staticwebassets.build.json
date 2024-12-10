@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "AZ81UVqjhPMZ1ADqiX7gQxkkhP3/xdlcO+F89LnoszI=",
+  "Source": "OAuthPOC",
+  "BasePath": "_content/OAuthPOC",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
